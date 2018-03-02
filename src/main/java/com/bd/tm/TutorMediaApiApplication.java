@@ -8,5 +8,6 @@ public class TutorMediaApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TutorMediaApiApplication.class, args);
+		//test
 	}
 }
